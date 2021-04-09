@@ -51,7 +51,7 @@ Inicie o repositorio na sua máquina local utilizando as seguintes linhas de com
 mkdir reserve
 cd reserve
 git init
-git clone git@github.com:JefersonLucas/reserve.git
+git clone git@github.com:matthewsmec/reserve.git
 ```
 
 ```
@@ -60,21 +60,21 @@ git clone git@github.com:JefersonLucas/reserve.git
 mkdir reserve
 cd reserve
 git init
-git clone https://github.com/JefersonLucas/reserve.git
+git clone https://github.com/matthewsmec/reserve.git
 ```
 Agora os arquivos que estão no repositório remoto estão clonados no repositório local.
 
 #### Baixando o repositório
 
-Você também pode [baixar](https://github.com/JefersonLucas/reserve/archive/master.zip) o repositório em formato zip.
+Você também pode [baixar](https://github.com/matthewsmec/reserve/archive/master.zip) o repositório em formato zip.
 
 ## Ambiente
 
-Veja aqui o a página desse projeto implantado por @github-pages [ver implantação](https://jefersonlucas.github.io/reserve/).
+Veja aqui o a página desse projeto implantado por @github-pages [ver implantação](https://matthewsmec.github.io/reserve/).
 
 ## Como funciona?
 
-Leia a nossa [Wiki](https://github.com/JefersonLucas/reserve/wiki) para obter mais informações.
+Leia a nossa [Wiki](https://github.com/matthewsmec/reserve/wiki) para obter mais informações.
 
 ## Construído com
 
@@ -83,21 +83,9 @@ Leia a nossa [Wiki](https://github.com/JefersonLucas/reserve/wiki) para obter ma
 
 ## Contribuindo
 
-Leia o [CONTRIBUTING.md](https://github.com/JefersonLucas/reserve/blob/master/CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta e o processo para enviar solicitações pull para nós.
-
-## Versionamento
-
-Usamos o [SemVer](https://semver.org/lang/pt-BR/) para controle de versão. Para as versões disponíveis, consulte as [tags nesse repositório](https://github.com/JefersonLucas/reserve/tags).
-
-## Autores
-
-* [@JefersonLucas](https://github.com/JefersonLucas) - _Idealizador_.
-
-Veja também a lista completa de [contribuidores](https://github.com/JefersonLucas/reserve/contributors) que participaram deste projeto.
-
 ## Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/JefersonLucas/reserve/blob/master/LICENSE) para obter detalhes.
+Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/matthewsmec/reserve/blob/master/LICENSE) para obter detalhes.
 
 ## Agradecimentos
 
